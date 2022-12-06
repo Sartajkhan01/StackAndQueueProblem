@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace StacksAndQueues
 {
+
     public class Stack
     {
         LinkedList linkedlist;
